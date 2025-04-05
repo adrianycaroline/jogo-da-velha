@@ -34,6 +34,8 @@ for(let i = 0; i < boxes.length; i++) {
                     // Função de executar a jogada
                     computerPlay();
 
+                    player2++;
+
                 }
 
             } else {
